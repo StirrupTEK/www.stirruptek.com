@@ -1,0 +1,3 @@
+# robots.txt file for "Stirruptek" website, www.stirruptek.com
+User-agent: *
+Disallow: /
